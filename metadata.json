@@ -1,0 +1,7 @@
+{
+  "name": "Commercial Plumbing & Mechanical Estimating & Bid Tracking Excel Toolkit",
+  "description": "Enterprise-grade commercial plumbing and mechanical bid estimating, costing engine, and project pipeline tracking Excel toolkit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
