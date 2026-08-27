@@ -21,12 +21,14 @@ Try the browser version for free. If you need the fully unlocked Excel version f
 
 Instead of scattering formulas across multiple tabs, this toolkit maps common estimating failures to automated solutions:
 
-- **Pain Point: Blind Bid Totals** → **Solution: Project-level bid cost build-up.** Instantly trace direct material, direct labor, equipment/subcontract cost, overhead, contingency, markup, and the final bid value in one unbroken calculation chain.
-- **Pain Point: Disconnected Takeoffs** → **Solution: Engineering quantity exposure.** Project ID, division/trade, MEP item description, unit, quantity, material rate, labor-hours-per-unit, and equipment rates remain permanently tied to the underlying takeoff spreadsheet.
-- **Pain Point: Outdated Labor Costs** → **Solution: Centralized labor cost assumptions.** Standard HVAC and plumbing trade labor rates are maintained in a master table and automatically applied to the relevant takeoff divisions.
-- **Pain Point: Broken Pricing Formulas** → **Solution: Commercial pricing structure control.** Overhead, contingency, and target markup are controlled from a single assumptions layer, preventing accidental formula overwrites.
-- **Pain Point: Lost Bid History** → **Solution: Bid pipeline visibility software.** Track project status, submitted bids, awarded tender value, lost opportunities, and overall win-rate analytics across your entire construction portfolio.
-- **Pain Point: No Executive Overview** → **Solution: Management cost visibility dashboards.** Selected-project summaries expose the exact financial health of the pipeline and the structural integrity of each commercial bid.
+| Pain Point | Solution | Description |
+|---|---|---|
+| Blind Bid Totals | Project-level bid cost build-up | Instantly trace direct material, direct labor, equipment/subcontract cost, overhead, contingency, markup, and the final bid value in one unbroken calculation chain. |
+| Disconnected Takeoffs | Engineering quantity exposure | Project ID, division/trade, MEP item description, unit, quantity, material rate, labor-hours-per-unit, and equipment rates remain permanently tied to the underlying takeoff spreadsheet. |
+| Outdated Labor Costs | Centralized labor cost assumptions | Standard HVAC and plumbing trade labor rates are maintained in a master table and automatically applied to the relevant takeoff divisions. |
+| Broken Pricing Formulas | Commercial pricing structure control | Overhead, contingency, and target markup are controlled from a single assumptions layer, preventing accidental formula overwrites. |
+| Lost Bid History | Bid pipeline visibility software | Track project status, submitted bids, awarded tender value, lost opportunities, and overall win-rate analytics across your entire construction portfolio. |
+| No Executive Overview | Management cost visibility dashboards | Selected-project summaries expose the exact financial health of the pipeline and the structural integrity of each commercial bid. |
 
 ---
 
