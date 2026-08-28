@@ -10,7 +10,7 @@
 
 Try the browser version for free. If you need the fully unlocked Excel version for permanent job costing, you can buy it with a 7-day money-back guarantee.
 
-> 🌐 **[Test the Free HTML Plumbing Bid Estimator in Browser](#)** — Browser / HTML evaluation version
+> 🌐 **[Test the Free HTML Plumbing Bid Estimator in Browser](https://hyvoid.github.io/commercial-hvac-plumbing-bid-estimator/)** — Browser / HTML evaluation version
 > 
 > 📥 **[Download the Reusable MEP Estimating Excel Workbook](https://alexhasgreatestuff.gumroad.com/l/owwsv?wanted=true)** — Full offline project estimating template
 > 
