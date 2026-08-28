@@ -12,7 +12,7 @@ Try the browser version for free. If you need the fully unlocked Excel version f
 
 > 🌐 **[Test the Free HTML Plumbing Bid Estimator in Browser](#)** — Browser / HTML evaluation version
 > 
-> 📥 **[Download the Reusable MEP Estimating Excel Workbook](#)** — Full offline project estimating template
+> 📥 **[Download the Reusable MEP Estimating Excel Workbook](https://alexhasgreatestuff.gumroad.com/l/owwsv?wanted=true)** — Full offline project estimating template
 > 
 
 ---
@@ -64,7 +64,7 @@ Log the Project ID, Division / Trade, Item Description, Quantity, Material Unit 
 Review `06_Bid_Summary` for project pricing, `07_Bid_Tracker` for tender pipeline tracking, and `08_Dashboard` for management KPIs. 
 
 **Ready to deploy for your next tender?**  
-📥 **[Download the fully functional Excel MEP Estimating Workbook here](#)** and reuse it across all future projects.
+📥 **[Download the fully functional Excel MEP Estimating Workbook here](https://alexhasgreatestuff.gumroad.com/l/owwsv?wanted=true)** and reuse it across all future projects.
 
 ---
 
