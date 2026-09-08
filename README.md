@@ -13,6 +13,7 @@ Try the browser version for free. If you need the fully unlocked Excel version f
 > 🌐 **[Test the Free HTML Plumbing Bid Estimator in Browser](https://hyvoid.github.io/commercial-hvac-plumbing-bid-estimator/)** — Browser / HTML evaluation version
 > 
 > 📥 **[Download the Reusable MEP Estimating Excel Workbook](https://www.theseusworkshop.com/l/sbazzz?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=commercial-hvac-plumbing-estimating)** — Full offline project estimating template
+
 ## Want to try it?
 
 This project is included in the Construction Toolkit.
