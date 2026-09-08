@@ -1,3 +1,5 @@
+[ 🌐 عربي ](README.ar.md) | [ 🇬🇧 English ](README.md)
+
 # Commercial Plumbing & Mechanical Bid Estimating Excel Template & Project Tracking Toolkit
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
@@ -1082,6 +1084,7 @@ The purpose of this checklist is not to replace estimating judgment.
 
 It is to prevent the workbook itself from becoming the source of avoidable estimating inconsistency.
 
+</details>
 </details>
 
 ## Other Tools in This Series
