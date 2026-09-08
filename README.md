@@ -1,4 +1,4 @@
-[ 🌐 عربي ](README.ar.md) | [ 🇬🇧 English ](README.md)
+[ 🌐 عربي ](README.ar.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
 # Commercial Plumbing & Mechanical Bid Estimating Excel Template & Project Tracking Toolkit
 
