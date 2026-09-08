@@ -1083,7 +1083,6 @@ The purpose of this checklist is not to replace estimating judgment.
 It is to prevent the workbook itself from becoming the source of avoidable estimating inconsistency.
 
 </details>
-</details>
 
 ## Other Tools in This Series
 
