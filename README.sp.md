@@ -1085,7 +1085,6 @@ El propósito de esta lista de verificación no es reemplazar el criterio de est
 Es evitar que el propio libro de Excel se convierta en la fuente de inconsistencias de estimación evitables.
 
 </details>
-</details>
 
 ## Otras Herramientas de Esta Serie
 
