@@ -1,4 +1,4 @@
-[ 🌐 عربي ](README.ar.md) | [ 🇬🇧 English ](README.md)
+[ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
 # قالب إكسل لتسعير أعمال السباكة التجارية والأعمال الميكانيكية وأدوات تتبع المشاريع
 
@@ -1084,6 +1084,7 @@ Equipment Rates
 
 بل هو لمنع تحوُّل المصنف نفسه إلى مصدر لعدم اتساق يمكن تجنبه في التقدير.
 
+</details>
 </details>
 
 ## أدوات أخرى في هذه السلسلة
