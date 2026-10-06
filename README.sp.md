@@ -16,16 +16,6 @@ Prueba gratis la versión en navegador. Si necesitas la versión de Excel comple
 > 
 > 📥 **[Descarga el Libro de Excel Reutilizable de Estimación MEP](https://www.theseusworkshop.com/l/sbazzz?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=commercial-hvac-plumbing-estimating)** — Plantilla completa de estimación de proyectos sin conexión
 
-## ¿Quieres probarlo?
-
-Este proyecto está incluido en el Construction Toolkit.
-
-Prueba esta y otras herramientas ligeras de construcción gratis durante 30 días — incluyendo herramientas para estimación, licitaciones, costos de obra y operaciones diarias.
-
-→ [Prueba el Construction Toolkit](https://theseusworkshop.com/l/fqtoi/BIDSEASON?utm_source=github&utm_medium=GitHub%20portfolio)
-
-> 
-
 ---
 
 ## Cómo Esta Herramienta de Estimación de Construcción Resuelve los Puntos Críticos de las Licitaciones
