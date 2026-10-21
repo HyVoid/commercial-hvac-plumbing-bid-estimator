@@ -1,4 +1,4 @@
-[ 🌐 عربي ](README.ar.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
+[ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
 # Commercial Plumbing & Mechanical Bid Estimating Excel Template & Project Tracking Toolkit
 <img width="1218" height="790" alt="image" src="https://github.com/user-attachments/assets/d958ab70-96c7-4ee4-acf8-d2ec0878f984" />
