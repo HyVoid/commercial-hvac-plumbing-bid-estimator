@@ -1,6 +1,8 @@
-[ 🌐 عربي ](README.ar.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
+[ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
 # Plantilla de Excel para Estimación de Ofertas de Fontanería y Mecánica Comercial & Toolkit de Seguimiento de Proyectos
+<img width="1218" height="790" alt="image" src="https://github.com/user-attachments/assets/d958ab70-96c7-4ee4-acf8-d2ec0878f984" />
+
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Platform: Browser + Excel](https://img.shields.io/badge/Platform-Browser%20%2B%20Excel-informational.svg)](#)
@@ -1074,7 +1076,6 @@ El propósito de esta lista de verificación no es reemplazar el criterio de est
 
 Es evitar que el propio libro de Excel se convierta en la fuente de inconsistencias de estimación evitables.
 
-</details>
 </details>
 
 ## Otras Herramientas de Esta Serie
