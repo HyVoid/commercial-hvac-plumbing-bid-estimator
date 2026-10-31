@@ -128,15 +128,21 @@ export const Sidebar: React.FC<SidebarProps> = ({
       <div className="p-4 border-b border-[#E5E5E1]">
         <div className="flex items-start justify-between gap-2">
           <div className="flex items-center gap-3 min-w-0">
-            <div className="w-8 h-8 rounded-lg bg-[var(--main)] text-white flex items-center justify-center shrink-0 shadow-sm">
+            <div
+              className="w-8 h-8 rounded-lg bg-[var(--main)] text-white flex items-center justify-center shrink-0 shadow-sm"
+              title="Theseus Workshop - Commercial Plumbing & Mechanical Estimating & Bid Tracking Excel Toolkit"
+            >
               <Layers className="w-4 h-4 text-white" />
             </div>
             {!isCollapsed && (
               <div className="min-w-0">
-                <h1 className="font-heading text-sm font-bold text-[var(--main)] tracking-[-0.01em] leading-tight line-clamp-2">
+                <div className="text-[11px] font-bold uppercase tracking-[0.08em] text-[var(--accent)] font-mono leading-none">
+                  Theseus Workshop
+                </div>
+                <h1 className="font-heading text-xs font-semibold text-[var(--main)] tracking-[-0.01em] leading-snug line-clamp-2 mt-1">
                   Commercial Plumbing & Mechanical Estimating & Bid Tracking Excel Toolkit
                 </h1>
-                <span className="text-[10px] text-[var(--gray)] font-mono font-medium block mt-0.5">
+                <span className="text-[10px] text-[var(--gray)] font-mono block mt-0.5">
                   Excel Model v2.4 SaaS
                 </span>
               </div>

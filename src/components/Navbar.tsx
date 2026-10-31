@@ -55,11 +55,16 @@ export const Navbar: React.FC<NavbarProps> = ({
         {/* Left: Brand Identity & Tabs */}
         <div className="flex items-center gap-8 lg:gap-10 h-full">
           <div className="flex items-center gap-2.5">
-            <div className="w-7 h-7 rounded bg-[var(--main)] text-white flex items-center justify-center">
+            <div className="w-7 h-7 rounded bg-[var(--main)] text-white flex items-center justify-center shrink-0" title="Theseus Workshop">
               <Layers className="w-4 h-4 text-white" />
             </div>
-            <div className="font-heading text-[22px] font-semibold text-[var(--main)] tracking-[-0.01em] whitespace-nowrap">
-              MEP Estimator Pro
+            <div className="min-w-0">
+              <div className="text-[10px] font-bold uppercase tracking-[0.08em] text-[var(--accent)] font-mono leading-none">
+                Theseus Workshop
+              </div>
+              <div className="font-heading text-base font-semibold text-[var(--main)] tracking-[-0.01em] whitespace-nowrap">
+                Commercial Plumbing &amp; Mechanical Estimating &amp; Bid Tracking Excel Toolkit
+              </div>
             </div>
           </div>
 

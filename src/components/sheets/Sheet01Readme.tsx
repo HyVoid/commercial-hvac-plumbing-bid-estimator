@@ -26,9 +26,15 @@ export const Sheet01Readme: React.FC<Sheet01ReadmeProps> = ({ onNavigate }) => {
       {/* Page Header */}
       <div className="flex flex-col md:flex-row md:items-center justify-between gap-4">
         <div>
-          <span className="text-[11px] font-mono uppercase tracking-label text-[var(--color-accent)] font-semibold">
-            Sheet 01 // Documentation & Architecture
-          </span>
+          <div className="flex items-center gap-2">
+            <span className="text-[11px] font-mono uppercase tracking-[0.08em] text-[var(--color-accent)] font-bold">
+              Theseus Workshop
+            </span>
+            <span className="text-[11px] font-mono text-[var(--color-muted)]">&bull;</span>
+            <span className="text-[11px] font-mono uppercase tracking-label text-[var(--color-muted)] font-semibold">
+              Sheet 01 // Documentation &amp; Architecture
+            </span>
+          </div>
           <h1 className="text-2xl lg:text-3xl font-bold font-heading text-[var(--color-primary)] tracking-display">
             Commercial Plumbing & Mechanical Estimating & Bid Tracking Excel Toolkit
           </h1>

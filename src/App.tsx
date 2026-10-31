@@ -290,7 +290,7 @@ export default function App() {
 
           <div className="flex items-center gap-3 text-xs text-[var(--gray)]">
             <span className="hidden sm:inline font-mono text-[11px]">
-              Commercial Plumbing & Mechanical Estimating Toolkit
+              <span className="font-semibold text-[var(--main)]">Theseus Workshop</span> &bull; Commercial Plumbing &amp; Mechanical Estimating &amp; Bid Tracking Excel Toolkit
             </span>
           </div>
         </header>
@@ -373,7 +373,7 @@ export default function App() {
 
         {/* Global Minimal Footer */}
         <footer className="border-t border-[#E5E5E1] bg-white py-3 px-4 sm:px-8 text-[11px] text-[var(--gray)] text-center">
-          All data in this tool is stored locally in your browser (localStorage). No user data is transmitted or retained on any server. &copy; 2026 Commercial Plumbing & Mechanical Estimating & Bid Tracking Excel Toolkit.
+          All data in this tool is stored locally in your browser (localStorage). No user data is transmitted or retained on any server. &copy; 2026 Theseus Workshop &bull; Commercial Plumbing &amp; Mechanical Estimating &amp; Bid Tracking Excel Toolkit.
         </footer>
       </div>
 
