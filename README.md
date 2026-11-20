@@ -33,6 +33,14 @@ Instead of scattering formulas across multiple tabs, this toolkit maps common es
 | Lost Bid History | Bid pipeline visibility software | Track project status, submitted bids, awarded tender value, lost opportunities, and overall win-rate analytics across your entire construction portfolio. |
 | No Executive Overview | Management cost visibility dashboards | Selected-project summaries expose the exact financial health of the pipeline and the structural integrity of each commercial bid. |
 
+## Spreadsheet Preview
+
+Want to take a closer look before downloading? You can preview the spreadsheet in Google Sheets to explore its layout, structure, and calculation logic.
+
+**[View Spreadsheet Preview on Google Sheets](https://docs.google.com/spreadsheets/d/1c024asy9yLTqndIWkxkHP1Zddr9V1xH-/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)**
+
+> **Note on Compatibility:** The Google Sheets preview may display occasional `#NAME?` errors or formula warnings due to differences between Google Sheets and Microsoft Excel formula compatibility. These are preview-only compatibility issues and do not affect the functionality of the original Excel workbook. For the intended formula behavior and full functionality, please download and open the `.xlsx` file in Microsoft Excel.
+
 ---
 
 ## Who Needs This MEP Estimating & Bidding Template? (Roles & Scenarios)
